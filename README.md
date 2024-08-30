@@ -11,6 +11,7 @@ Las tareas llevadas a cabo son:
 *	Prueba de hipótesis estadísticas
 *	Realización de clústeres para identificar características de operadores
 
+Así mismo se realiza un presentación que se encuentra en formato PDF para que los stakeholders del proyecto logren obtener los datos, conclusiones y recomendaciones de su interés.
 
 ## Tecnologías
 ***
